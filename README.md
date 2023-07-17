@@ -3,3 +3,9 @@
 <h3>programming languages: HTML, CSS, JS.</h3>
 <h4>The API was used from the https://jsonplaceholder.typicode.com/</h4>
 <h5>! NOTE: This is a free fake API.</h5>
+<h6>Online Status Without Popup</h6>
+<img src="./design/1.png" alt="Online Status Without Popup">
+<h6>Online Status With Popup</h6>
+<img src="./design/2.png" alt="Online Status With Popup">
+<h6>Offline Status With Popup</h6>
+<img src="./design/3.png" alt="Offline Status With Popup">
